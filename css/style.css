@@ -1,0 +1,47 @@
+body {
+    background-color: #f4f4f4;
+    color: #333;
+    font-family: 'Helvetica', sans-serif;
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+    padding: 15px;
+}
+
+nav a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    margin: 20px;
+}
+
+h2 {
+    color: #0070c0;
+}
+
+.form-field {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+}
+
+.btn {
+    background-color: #0070c0;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #005a90;
+}
